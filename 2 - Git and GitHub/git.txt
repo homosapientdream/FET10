@@ -28,3 +28,10 @@ git branch -a
 git switch [branch-name]
 git checkout [branch-name]
 
+- Merging
+
+- Merge a branch
+git merge [branch-name]
+
+- Delete a branch
+git branch -d [branch-name]
